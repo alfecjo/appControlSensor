@@ -1,0 +1,1 @@
+/usr/bin/c++  -mcpu=cortex-a53 -mfpu=neon-vfpv4 -mfloat-abi=hard CMakeFiles/MyProject.dir/src/main.cpp.o CMakeFiles/MyProject.dir/src/peripheral_driver/gpio.cpp.o CMakeFiles/MyProject.dir/src/application/app_logic.cpp.o CMakeFiles/MyProject.dir/src/signalhandler/signal_handler.cpp.o -o MyProject  -lwiringPi 

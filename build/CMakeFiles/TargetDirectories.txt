@@ -1,0 +1,3 @@
+/home/ubuntu/.vscode-server/app/build/CMakeFiles/MyProject.dir
+/home/ubuntu/.vscode-server/app/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/.vscode-server/app/build/CMakeFiles/rebuild_cache.dir
